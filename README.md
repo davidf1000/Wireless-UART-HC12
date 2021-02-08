@@ -20,3 +20,5 @@ FTDI - GND - X - VCC - TX - RX <br>
 - TX FTDI -> RX Module HC12
 - RX FTDI -> TX Module HC12 
 - VCC GND as usual 
+## Docs
+![1001079](https://user-images.githubusercontent.com/47879766/107240862-fd0daf00-6a5c-11eb-88ca-c6898e0f823d.jpg)
